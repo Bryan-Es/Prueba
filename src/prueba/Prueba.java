@@ -16,6 +16,11 @@ public class Prueba {
     public static void main(String[] args) {
         System.out.println(":)");
         System.out.println("HOLAA");
+        int num;
+        num=9;
+        if(num<7){
+            System.out.println("Hola");
+        }
     }
     
 }
